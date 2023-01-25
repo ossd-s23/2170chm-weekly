@@ -8,5 +8,5 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a passionate computer science student who loves software development! I am interested in database and artificial intelligence.
 
