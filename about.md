@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! My name is Scott and I am a senior majoring in computer science. I am a passionate programmer who loves software development and I am interested in database and artificial intelligence.
 
 ### More Information
 
-I am a passionate computer science student who loves software development! I am interested in database and artificial intelligence.
+I love guitar, soccer and video games!
 
