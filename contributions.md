@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
+| Feb 12   | https://en.wikipedia.org/wiki/Francesco_Sgalambro    | Wikipedia    |   Fixed grammatical errors.    |
+|  Feb 12   | https://en.wikipedia.org/wiki/Counter-terrorism_Special_Force    | Wikipedia    | Fixed punctuation errors.     |
 |     |     |     |      |
