@@ -24,4 +24,7 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Feb 12   | https://en.wikipedia.org/wiki/Francesco_Sgalambro    | Wikipedia    |   Fixed grammatical errors.    |
 |  Feb 12   | https://en.wikipedia.org/wiki/Counter-terrorism_Special_Force    | Wikipedia    | Fixed punctuation errors.     |
-|     |     |     |      |
+|  Feb 16  |  https://en.wikipedia.org/wiki/Guy_Marchand   |  Wikipedia   |  Fixed grammatical errors.   |
+|  Feb 16  |  https://en.wikipedia.org/wiki/James_Jackson_(American_football)   |  Wikipedia   |  Fixed a punctuation error.   |
+|  Feb 16  |  https://en.wikipedia.org/wiki/Donald_Francis_Lippert   |  Wikipedia   |  Fixed a grammatical error.   |
+|  Feb 16  |  https://www.openstreetmap.org/changeset/132657003   |  OpenStreetMap   |  Added a bakery store on the map.   |
