@@ -22,9 +22,9 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 12   | https://en.wikipedia.org/wiki/Francesco_Sgalambro    | Wikipedia    |   Fixed grammatical errors.    |
-|  Feb 12   | https://en.wikipedia.org/wiki/Counter-terrorism_Special_Force    | Wikipedia    | Fixed punctuation errors.     |
-|  Feb 16  |  https://en.wikipedia.org/wiki/Guy_Marchand   |  Wikipedia   |  Fixed grammatical errors.   |
-|  Feb 16  |  https://en.wikipedia.org/wiki/James_Jackson_(American_football)   |  Wikipedia   |  Fixed a punctuation error.   |
-|  Feb 16  |  https://en.wikipedia.org/wiki/Donald_Francis_Lippert   |  Wikipedia   |  Fixed a grammatical error.   |
-|  Feb 16  |  https://www.openstreetmap.org/changeset/132657003   |  OpenStreetMap   |  Added a bakery store on the map.   |
+| Feb 12   | [Wikipedia: Francesco_Sgalambro](https://en.wikipedia.org/wiki/Francesco_Sgalambro)    | Wikipedia    |   Fixed grammatical errors.    |
+|  Feb 12   | [Wikipedia: Counter-terrorism_Special_Force](https://en.wikipedia.org/wiki/Counter-terrorism_Special_Force)    | Wikipedia    | Fixed punctuation errors.     |
+|  Feb 16  |  [Wikipedia: Guy_Marchand](https://en.wikipedia.org/wiki/Guy_Marchand)   |  Wikipedia   |  Fixed grammatical errors.   |
+|  Feb 16  |  [Wikipedia: James_Jackson](https://en.wikipedia.org/wiki/James_Jackson_(American_football))   |  Wikipedia   |  Fixed a punctuation error.   |
+|  Feb 16  |  [Wikipedia: Donald_Francis_Lippert](https://en.wikipedia.org/wiki/Donald_Francis_Lippert)   |  Wikipedia   |  Fixed a grammatical error.   |
+|  Feb 16  |  [OpenStreetMap: Paris Baguette](https://www.openstreetmap.org/changeset/132657003)   |  OpenStreetMap   |  Added a bakery store on the map.   |
