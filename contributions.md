@@ -27,4 +27,9 @@ Replace the first row with your own contribution.
 |  Feb 16  |  [Wikipedia: Guy_Marchand](https://en.wikipedia.org/wiki/Guy_Marchand)   |  Wikipedia   |  Fixed grammatical errors.   |
 |  Feb 16  |  [Wikipedia: James_Jackson](https://en.wikipedia.org/wiki/James_Jackson_(American_football))   |  Wikipedia   |  Fixed a punctuation error.   |
 |  Feb 16  |  [Wikipedia: Donald_Francis_Lippert](https://en.wikipedia.org/wiki/Donald_Francis_Lippert)   |  Wikipedia   |  Fixed a grammatical error.   |
-|  Feb 16  |  [OpenStreetMap: Paris Baguette](https://www.openstreetmap.org/changeset/132657003)   |  OpenStreetMap   |  Added a bakery store on the map.   |
+|  Feb 16  |  [OpenStreetMap: Paris Baguette](https://www.openstreetmap.org/changeset/132657003)   |  OpenStreetMap   |  Added a Paris Baguette bakery store on the map.   |
+|  Feb 25  |  [OpenStreetMap: Starbucks](https://www.openstreetmap.org/changeset/133021174)   |  OpenStreetMap   |  Added information for a Starbucks store.   |
+|  Feb 25  |  [OpenStreetMap: Sweetgreen](https://www.openstreetmap.org/changeset/133021333#map=19/40.74743/-73.94254)   |  OpenStreetMap   |  Added a Sweetgreen restaurant on the map.   |
+|  Feb 25  |  [Wikipedia: Noboribetsu](https://en.wikipedia.org/wiki/Noboribetsu)   |  Wikipedia   |  Fixed a punctuation error.  |
+|  Feb 25  |  [Wikipedia: Millennium Tower (Abuja)](https://en.wikipedia.org/wiki/Millennium_Tower_(Abuja))   |  Wikipedia   |  Fixed various grammatical errors.  |
+
