@@ -35,5 +35,8 @@ Replace the first row with your own contribution.
 |  Mar 1 |  [OpenStreetMap: Teazzi Tea Shop](https://www.openstreetmap.org/changeset/133195349#map=19/40.74792/-73.94226)   |  OpenStreetMap   |  Added information for a milk tea store.   |
 |  Mar 1  |  [Wikipedia: John E. Sheridan (politician)](https://en.wikipedia.org/wiki/John_E._Sheridan_(politician))   |  Wikipedia   |  Fixed various grammatical errors.  |
 |  Mar 1  |  [Wikipedia: J. Chokka Rao Devadula Lift Irrigation Scheme](https://en.wikipedia.org/wiki/J._Chokka_Rao_Devadula_Lift_Irrigation_Scheme)  |  Wikipedia  |  Fixed a typo and various grammatical errors.  |
+|  Mar 13  |  [Course Website Issue](https://github.com/joannakl/ossd/issues/62)   |  Course Website Issue Report   |  Found a typo on the course website and raised an issue  |
+|  Mar 14  |  [Course Website Issue](https://github.com/joannakl/ossd/issues/62)   |  Course Website Issue Resolved  |  Claimed and resolved an issue of missing hyperlink on the course website |
+|  Mar 16 |  [OpenStreetMap: CooCooCachoo](https://www.openstreetmap.org/changeset/133761883)   |  OpenStreetMap   |  Added information for a fried chicken shop.   |
 
 
