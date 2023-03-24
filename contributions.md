@@ -38,5 +38,10 @@ Replace the first row with your own contribution.
 |  Mar 13  |  [Course Website Issue](https://github.com/joannakl/ossd/issues/62)   |  Course Website Issue Report   |  Found a typo on the course website and raised an issue  |
 |  Mar 14  |  [Course Website Issue](https://github.com/joannakl/ossd/issues/62)   |  Course Website Issue Resolved  |  Claimed and resolved an issue of missing hyperlink on the course website |
 |  Mar 16 |  [OpenStreetMap: CooCooCachoo](https://www.openstreetmap.org/changeset/133761883)   |  OpenStreetMap   |  Added information for a fried chicken shop.   |
+|  Mar 24 |  [OpenStreetMap: Instalock Locksmith](https://www.openstreetmap.org/changeset/134086180)   |  OpenStreetMap   |  Added information for a locksmith shop.   |
+|  Mar 24 |  [OpenStreetMap: The Veterinarians at Court Square](https://www.openstreetmap.org/changeset/134086275)   |  OpenStreetMap   |  Added information for a veterinary.   |
+|  Mar 24 |  [OpenStreetMap: Bronson Upholstery & Carpet Cleaning](https://www.openstreetmap.org/edit#map=21/40.74681/-73.94179)   |  OpenStreetMap   |  Added information for a cleaning service.   |
+|  Mar 24  |  [Wikipedia: General Urquiza](https://en.wikipedia.org/wiki/General_Urquiza)   |  Wikipedia   |  Added a missing verb and fixed a tense error.  |
+
 
 
