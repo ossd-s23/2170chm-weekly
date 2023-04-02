@@ -42,6 +42,7 @@ Replace the first row with your own contribution.
 |  Mar 24 |  [OpenStreetMap: The Veterinarians at Court Square](https://www.openstreetmap.org/changeset/134086275)   |  OpenStreetMap   |  Added information for a veterinary.   |
 |  Mar 24 |  [OpenStreetMap: Bronson Upholstery & Carpet Cleaning](https://www.openstreetmap.org/edit#map=21/40.74681/-73.94179)   |  OpenStreetMap   |  Added information for a cleaning service.   |
 |  Mar 24  |  [Wikipedia: General Urquiza](https://en.wikipedia.org/wiki/General_Urquiza)   |  Wikipedia   |  Added a missing verb and fixed a tense error.  |
-
-
-
+|  April 2 |  [OpenStreetMap: Corgi Jianbing](https://www.openstreetmap.org/changeset/134431118)   |  OpenStreetMap   |  Added information for a food truck.   |
+|  April 2 |  [OpenStreetMap: Meet Fresh](https://www.openstreetmap.org/changeset/134431270)   |  OpenStreetMap   |  Added information for a dessert shop.   |
+|  April 2 |  [OpenStreetMap: MG LIC HAIR ARTISTIC STUDIO](https://www.openstreetmap.org/changeset/134431333)   |  OpenStreetMap   |  Added information for a barbershop.   |
+|  April 2  |  [Wikipedia: Villain of the week](https://en.wikipedia.org/wiki/Villain_of_the_week)   |  Wikipedia   |  Replaced a wrong word with the correct one, fixed various punctuation issues.  |
