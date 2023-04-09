@@ -46,3 +46,7 @@ Replace the first row with your own contribution.
 |  April 2 |  [OpenStreetMap: Meet Fresh](https://www.openstreetmap.org/changeset/134431270)   |  OpenStreetMap   |  Added information for a dessert shop.   |
 |  April 2 |  [OpenStreetMap: MG LIC HAIR ARTISTIC STUDIO](https://www.openstreetmap.org/changeset/134431333)   |  OpenStreetMap   |  Added information for a barbershop.   |
 |  April 2  |  [Wikipedia: Villain of the week](https://en.wikipedia.org/wiki/Villain_of_the_week)   |  Wikipedia   |  Replaced a wrong word with the correct one, fixed various punctuation issues.  |
+|  April 8 |  [OpenStreetMap: Gotham Archery](https://www.openstreetmap.org/changeset/134669861)   |  OpenStreetMap   |  Completed information of an archery center.  |
+|  April 8 |  [OpenStreetMap: Steinway Cafe-Billiards](https://www.openstreetmap.org/changeset/134669996)   |  OpenStreetMap   |  Added information for an archery center.  |
+|  April 8 |  [OpenStreetMap: Gopchang Story BBQ - Manhattan](https://www.openstreetmap.org/changeset/134670129)   |  OpenStreetMap   |  Added information for a Korean barbeque restaurant.  |
+|  April 8 |  [Wikipedia: NOEMA (company)](https://en.wikipedia.org/wiki/NOEMA_(company))   |  Wikipedia   |  Added missing conjunctions and punctuations and corrected verb tense errors.  |
