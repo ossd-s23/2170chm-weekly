@@ -50,3 +50,7 @@ Replace the first row with your own contribution.
 |  April 8 |  [OpenStreetMap: Steinway Cafe-Billiards](https://www.openstreetmap.org/changeset/134669996)   |  OpenStreetMap   |  Added information for an archery center.  |
 |  April 8 |  [OpenStreetMap: Gopchang Story BBQ - Manhattan](https://www.openstreetmap.org/changeset/134670129)   |  OpenStreetMap   |  Added information for a Korean barbeque restaurant.  |
 |  April 8 |  [Wikipedia: NOEMA (company)](https://en.wikipedia.org/wiki/NOEMA_(company))   |  Wikipedia   |  Added missing conjunctions and punctuations and corrected verb tense errors.  |
+|  April 15 |  [OpenStreetMap: Chongqing Lao Zao](https://www.openstreetmap.org/changeset/134959859)   |  OpenStreetMap   |  Added information of a Chinese hot pot restaurant.  |
+|  April 15 |  [OpenStreetMap: 520 Dessert Bar](https://www.openstreetmap.org/changeset/134959940)   |  OpenStreetMap   |  Added information of a dessert shop.  |
+|  April 15 |  [OpenStreetMap: The Alley](https://www.openstreetmap.org/changeset/134960038)   |  OpenStreetMap   |  Added information of a dessert shop.  |
+|  April 15 |  [Wikipedia: William Yancey Brown](https://en.wikipedia.org/wiki/William_Yancey_Brown)   |  Wikipedia   |  Added and corrected missing and misused articles.  |
