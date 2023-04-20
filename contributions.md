@@ -54,3 +54,7 @@ Replace the first row with your own contribution.
 |  April 15 |  [OpenStreetMap: 520 Dessert Bar](https://www.openstreetmap.org/changeset/134959940)   |  OpenStreetMap   |  Added information of a dessert shop.  |
 |  April 15 |  [OpenStreetMap: The Alley](https://www.openstreetmap.org/changeset/134960038)   |  OpenStreetMap   |  Added information of a dessert shop.  |
 |  April 15 |  [Wikipedia: William Yancey Brown](https://en.wikipedia.org/wiki/William_Yancey_Brown)   |  Wikipedia   |  Added and corrected missing and misused articles.  |
+|  April 20  |  [Course Website Issue](https://github.com/joannakl/ossd/issues/71)   |  Course Website Issue Resolved  |  Claimed and resolved an issue of a typo on the course website |
+|  April 20 |  [OpenStreetMap: Target](https://www.openstreetmap.org/changeset/135166096#map=18/40.74705/-73.94481)   |  OpenStreetMap   |  Added information of a department store.  |
+|  April 20 |  [OpenStreetMap: Teso Life](https://www.openstreetmap.org/changeset/135166201)   |  OpenStreetMap   |  Added information of a department store.  |
+|  April 20 |  [OpenStreetMap: Teso Life](https://www.openstreetmap.org/changeset/135166328)   |  OpenStreetMap   |  Added information of a ramen restaurant.  |
